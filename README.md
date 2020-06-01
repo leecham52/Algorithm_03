@@ -39,3 +39,24 @@ Image and Probability
 Error image
 
 ![모델 2 에러 이미지](https://user-images.githubusercontent.com/62279323/83388683-d0af8680-a429-11ea-9c3a-b2a05f80f4d1.PNG)
+
+# MODEL 3 : 7 Layers with 4 Convolution layer
+
+![모델 3](https://user-images.githubusercontent.com/62279323/83393222-613d9500-a431-11ea-8687-7ef100d99bd0.PNG)
+
+Training for 5 epochs
+
+![모델 3 트레이닝](https://user-images.githubusercontent.com/62279323/83393226-639fef00-a431-11ea-8379-673aa0bb4172.PNG)
+
+Accuracy
+
+![모델 3 정확도](https://user-images.githubusercontent.com/62279323/83393229-6569b280-a431-11ea-89eb-717efaab8d24.PNG)
+
+Image and Probability
+
+![모델 3 전체 이미지](https://user-images.githubusercontent.com/62279323/83393237-67337600-a431-11ea-9f39-0e4d42fe1461.PNG)
+
+Error image
+
+![모델 3 에러 이미지](https://user-images.githubusercontent.com/62279323/83393241-68fd3980-a431-11ea-9446-253cf2ad2a77.PNG)
+
