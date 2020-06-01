@@ -3,6 +3,8 @@
 # Model Select
 If you want to choose model 1,2 and 3 ,then change this line (ex, select_model(1), select_model(2))
 
+![모델 선택](https://user-images.githubusercontent.com/62279323/83393863-7d8e0180-a432-11ea-8fd5-fc1c928fec07.PNG)
+
 # Model 1 : 3 Layers with 1 Convolution layer
 
 ![모델 1](https://user-images.githubusercontent.com/62279323/83384564-7eb73280-a422-11ea-934e-9276be3eda41.PNG)
